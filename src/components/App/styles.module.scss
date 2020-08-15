@@ -1,0 +1,98 @@
+.root {
+  align-content: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.artworkWrapper {
+  background-color: rgba(0, 0, 0, 0.7);
+  height: 320px;
+  margin-top: 2em;
+  overflow: hidden;
+  width: 100%;
+
+  img {
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+
+  .infoWrapper {
+    background-color: rgba(0, 0, 0, 0.4);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em;
+    width: 100%;
+
+    .soundSetInfo {
+      font-weight: 700;
+      padding-left: 0.4em;
+    }
+
+    .moodInfo {
+      font-size: small;
+      font-weight: 200;
+      padding-left: 0.4em;
+    }
+
+    input {
+      width: 95%;
+    }
+  }
+}
+
+.artworkContainer {
+  object-fit: scale-down;
+  width: 100%;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 1em;
+}
+
+.soundSetSelector {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.moodSelector {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+select {
+  width: 20em;
+}
+
+.actionButton {
+  padding: 1em;
+  width: 10em;
+}
+
+.actionButton::before {
+  margin-right: 1em;
+}
+
+img {
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+}
+
+.splash {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+
+  img {
+    height: 100%;
+    object-fit: scale-down;
+    width: 100%;
+  }
+}

@@ -1,0 +1,43 @@
+
+{
+  "mixpanel-current-mood": {
+    "status": "OFFICIAL",
+    "started": 1596741387.59982,
+    "mood": "Under the Surf",
+    "chapter": "Atlantis",
+    "licensor": "Syrinscape Original Sci-fi",
+    "pk": 3277
+  },
+  "activity": {
+    "mood": {
+      "3277": {
+        "is_playing": true
+      }
+    },
+    "global": {
+      "soundset_uuid": "5c04c14a-addf-11e6-bbbb-f23c9170c08b",
+      "stop": "true",
+      "peak_ping": "356ms",
+      "volume": 1.0,
+      "category_title": "Sci-Fi",
+      "avg_ping": "231ms",
+      "latest_ping": "356ms",
+      "soundset_title": "Atlantis",
+      "soundset_background_image_url": "https://thumbor.syrinscape.com/pnIP1e_C0Zth8i2FRFmYvTHUPNg\u003d/fit-in/1024x1024/filters:quality(90)/https://syrinscape-us.s3.amazonaws.com/media/dd/chapter/background_image/eca625d1bd757591b874ddcb40d31d57.jpg",
+      "stopped": false,
+      "version": "1.4.5-20190820"
+    },
+    "sample": {},
+    "element": {
+      "18200": {
+        "is_playing": true
+      },
+      "18201": {
+        "is_playing": true
+      },
+      "18202": {
+        "is_playing": true
+      }
+    },
+    "playlist": {}
+  },

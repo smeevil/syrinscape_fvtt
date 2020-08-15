@@ -1,0 +1,95 @@
+.wrapper {
+  border: 1px solid #000;
+  color: #191813;
+  font-family: 'Roboto', system, -apple-system, sans-serif;
+  font-size: 14px;
+  height: 600px;
+  padding: 8px;
+  width: 380px;
+}
+
+body {
+  align-items: center;
+  background-color: #191813;
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  background: rgba(255, 255, 240, 0.8);
+  border: 1px solid #b5b3a4;
+  border-radius: 3px;
+  font-size: 14px;
+  margin: 0 1px;
+  width: 100%;
+}
+
+header {
+  border-bottom-color: rgb(120, 46, 34);
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  color: rgb(25, 24, 19);
+  font-family: Roboto, system, -apple-system, sans-serif;
+  font-weight: 600;
+  height: 42px;
+  margin: 0 0 8px;
+  padding: 0;
+}
+
+select {
+  align-items: center;
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: rgba(0, 0, 0, 0.05);
+  background-image: none;
+  background-origin: padding-box;
+  background-size: auto;
+  border-bottom-color: rgb(122, 121, 113);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-image-repeat: stretch;
+  border-image-source: none;
+  border-image-width: 1;
+  border-left-color: rgb(122, 121, 113);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-radius: 5px;
+  border-right-color: rgb(122, 121, 113);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgb(122, 121, 113);
+  border-top-style: solid;
+  border-top-width: 1px;
+  box-shadow: none;
+  box-sizing: border-box;
+  color: rgb(0, 0, 0);
+  cursor: default;
+  display: inline-block;
+  font-size: 11px;
+  font-stretch: 100%;
+  font-style: normal;
+  font-variant-caps: normal;
+  font-variant-east-asian: normal;
+  font-variant-ligatures: normal;
+  font-variant-numeric: normal;
+  font-weight: 400;
+  height: 25px;
+  letter-spacing: normal;
+  line-height: normal;
+  margin: 0;
+  outline: rgb(0, 0, 0) none 0;
+  outline-offset: 0;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding: 0;
+  text-align: start;
+  text-indent: 0;
+  text-overflow: ellipsis;
+  text-rendering: auto;
+  text-shadow: none;
+  text-transform: none;
+  user-select: none;
+  white-space: pre;
+  word-spacing: 0;
+  writing-mode: horizontal-tb;
+}

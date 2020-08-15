@@ -1,0 +1,32 @@
+{
+  "name": "syrinscape_fvtt",
+  "title": "Syrinscape Integration",
+  "description": "Integrates Syrinscape into Foundry VTT",
+  "version": "0.1.0",
+  "author": "Smeevil",
+  "authors": [
+    {
+      "name": "Gerard de Brieder",
+      "email": "smeevil@me.com",
+      "url": "https://govannon.nl"
+    }
+  ],
+  "scripts": [],
+  "esmodules": [
+    "syrinscape_fvtt.js"
+  ],
+  "styles": [
+    "syrinscape_fvtt.css"
+  ],
+  "packs": [],
+  "languages": [],
+  "minimumCoreVersion": "0.6.5",
+  "compatibleCoreVersion": "0.6.5",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": ""
+}
